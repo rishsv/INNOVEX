@@ -101,8 +101,7 @@ function AppContent() {
         image: product.images ? product.images[0] : 'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80'
       }]);
     }
-    showToast(`Added ${product.title} to Bag`);
-    setIsCartOpen(true);
+    showToast(`✓ ${product.title} added to Bag`);
   };
 
   const updateCartQty = (id, delta) => {
