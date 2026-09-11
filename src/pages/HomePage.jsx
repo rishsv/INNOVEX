@@ -8,7 +8,7 @@ export function HomePage({ products = [], onAddToCart, onToggleWishlist, wishlis
 
   const heroSlides = [
     {
-      bg: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1600&q=80",
+      bg: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1600&q=80",
       tag: "Summer Collection 2025",
       title: "The Art of\nDraping",
       subtitle: "Fluid hand-loomed mulberry silks, sculptural ecru linen tailoring, and architectural drape.",
@@ -24,7 +24,7 @@ export function HomePage({ products = [], onAddToCart, onToggleWishlist, wishlis
       link: "/category/mens-apparel"
     },
     {
-      bg: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1600&q=80",
+      bg: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1600&q=80",
       tag: "Luxury Accessories",
       title: "Every Detail\nMatters",
       subtitle: "Hand-stitched Italian leather, 18K gold jewellery, and heritage cashmere — curated for India.",
