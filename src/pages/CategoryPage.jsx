@@ -5,27 +5,27 @@ const CATEGORY_META = {
   'womens-dresses': {
     title: "Women's Dresses",
     description: "Fluid silhouettes, sculptural draping, and handcrafted fabrics designed for the modern Indian woman.",
-    heroImg: "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1600&q=80"
+    heroImg: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1600&q=80"
   },
   'mens-apparel': {
     title: "Men's Apparel",
     description: "Bespoke tailoring, fine wool suits, and premium shirts — engineered for the contemporary Indian gentleman.",
-    heroImg: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1600&q=80"
+    heroImg: "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=1600&q=80"
   },
   'accessories': {
     title: "Luxury Accessories",
     description: "Italian leather bags, 18K gold jewellery, cashmere stoles and artisan footwear — curated for India.",
-    heroImg: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1600&q=80"
+    heroImg: "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=1600&q=80"
   },
   'sale': {
     title: "Archival Sale",
     description: "Archive season pieces at incredible prices. Premium quality at up to 55% off — limited stock.",
-    heroImg: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=1600&q=80"
+    heroImg: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1600&q=80"
   },
   'all': {
     title: "All Collections",
     description: "Explore the complete INNOVEX Studio portfolio — women's, men's, accessories and sale curated all in one place.",
-    heroImg: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1600&q=80"
+    heroImg: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?auto=format&fit=crop&w=1600&q=80"
   }
 };
 
